@@ -15,10 +15,12 @@ Project Type[Sole]:
 
 Technologies:
 -------------------
-Spring Boot
-Spring Data JPA (Hibernate)
-MySQL
-Spring Security
+- Spring Boot
+- Spring Data JPA (Hibernate)
+- MySQL
+- Spring Security
+
+
 ------------------------------------------
 
 ER-Diagram
