@@ -27,3 +27,23 @@ ER-Diagram
 --------------------------------------
 ![smsapp-ER_Daigram](https://user-images.githubusercontent.com/103960690/210269024-d2efb76f-8f0b-4629-a702-ef55502b2880.png)
 
+----------------------------------------------------
+
+API's [BaseURL:=> localhost:8889/api]
+-----------------------------------------
+User:
+- /addrole  (here need to insert the role into data base before register like: ROLE_ADMIN)
+- /register
+- /login
+- /getuser/{email}
+
+
+Student:
+- /addstudent
+- /getallstudents
+- /updatestudent/{id}
+- /deletestudent/{id}
+- /getstudent/{id}
+- /getstudents/{firstName}
+
+
