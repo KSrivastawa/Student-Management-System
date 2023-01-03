@@ -32,7 +32,7 @@ ER-Diagram
 API's [BaseURL:=> localhost:8889/api]
 -----------------------------------------
 User:
-- /addrole  (here need to insert the role into data base before register like: ROLE_ADMIN)
+- /addrole  (here need to insert the role into database before register like: ROLE_ADMIN)
 - /register
 - /login
 - /getuser/{email}
