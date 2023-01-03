@@ -39,10 +39,10 @@ User:
 
 
 Student:
-- /addstudent  (Authentication apllied)
+- /addstudent  (Authentication applied)
 - /getallstudents  
-- /updatestudent/{id}  (Authentication apllied)
-- /deletestudent/{id}  (Authentication apllied)
+- /updatestudent/{id}  (Authentication applied)
+- /deletestudent/{id}  (Authentication applied)
 - /getstudent/{id}
 - /getstudents/{firstName}
 
